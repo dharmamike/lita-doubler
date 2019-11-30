@@ -1,8 +1,7 @@
 # lita-doubler
 
 [![Build Status](https://travis-ci.org/dharmamike/lita-doubler.png?branch=master)](https://travis-ci.org/dharmamike/lita-doubler)
-[![Coverage Status](https://coveralls.io/repos/dharmamike/lita-doubler/badge.png)](https://coveralls.io/r/dharmamike/lita-doubler)
-
+[![Coverage Status](https://coveralls.io/repos/github/dharmamike/lita-doubler/badge.svg?branch=master)](https://coveralls.io/github/dharmamike/lita-doubler?branch=master)  
 Doubles numbers - simple demo skill.
 
 ## Installation
