@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-doubler-dharmamike"
-  spec.version       = "0.1.0"
+  spec.version       = "0.2.0"
   spec.authors       = ["Mike Arnold"]
   spec.email         = ["dharmamike@gmail.com"]
   spec.description   = "Doubles numbers - simple demo skill"

@@ -1,10 +1,6 @@
 module Lita
   module Handlers
     class Doubler < Handler
-      # insert handler code here
-
-      Lita.register_handler(self)
-
       route(
         /^double\s+(\d+)$/i,
         :respond_with_double,
@@ -21,6 +17,8 @@ module Lita
 
         response.reply "#{n} + #{n} = #{double_number(n)}"
       end
+
+      Lita.register_handler(self)
     end
   end
 end
